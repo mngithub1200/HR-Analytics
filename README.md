@@ -10,4 +10,5 @@ Designed and developed a comprehensive HR analytics dashboard, leveraging data v
 - Interactive filters for departments and time periods
 
 **Tools:**
+
 Power BI
